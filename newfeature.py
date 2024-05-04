@@ -1,2 +1,2 @@
 print("world")
-print("ff world")
+print("ff ssss")
