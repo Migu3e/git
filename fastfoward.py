@@ -1,1 +1,1 @@
-print("fast fast")
+print("sf fast")
